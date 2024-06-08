@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAQA","sources":["globalStyles.css"],"sourcesContent":["*{\n    padding: 0;\n    margin: 0;\n    box-sizing: border-box;\n   \n    \n}\n\nbody{\n    background-color: black;\n    \n}"],"names":[],"version":3,"file":"index.8edc42ed.css.map","sourceRoot":"/__parcel_source_root/"}
